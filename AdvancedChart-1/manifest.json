@@ -3,7 +3,7 @@
   "label": "Advanced Chart-1",
   "type": "widget",
   "version": "1.15.0",
-  "exbVersion": "1.15.0",
+  "exbVersion": "1.10.0",
   "author": "Esri R&D Center Beijing",
   "description": "This is the widget used in developer guide",
   "copyright": "",
